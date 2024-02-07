@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Arun Kumar A</h1>
+<h1 align="left">Hi 👋, I'm Arun Kumar</h1>
 <h3 align="left">Flutter and MERN Stack Developer</h3>
 
 - 💬 Ask me about **React, Flutter, Node, MERN**
