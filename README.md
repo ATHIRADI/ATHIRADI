@@ -1,6 +1,9 @@
 ### Greetings! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 
-Currently, I am working with Dart and Flutter. <br>If you are looking to develop a mobile app, I would be happy to help. <br>I also enjoy contributing to community work. <br>Feel free to ask me about React, Flutter, Node, or the MERN Stack.
+I'm a highly motivated and results-oriented software developer with 2+ years of experience building modern web and mobile applications. I'm proficient in React, MERN stack (MongoDB, Express.js, React.js, Node.js), and Flutter for cross-platform development.
+I thrive in a freelance environment and collaborate effectively with clients to deliver high-quality, user-centric solutions that meet their specific needs. I have a strong track record of success in developing e-commerce applications that help businesses increase sales and improve customer experience.
+
+If you're looking for a reliable and experienced developer to help you build your next mobile or web app.
 
 [<img src="https://img.shields.io/badge/Fiverr-1dbf73?&style=for-the-badge&logo=fiverr&logoColor=white" height="25" alt="Arun Kumar">](https://www.fiverr.com/athiradi/)
 [<img src="https://img.shields.io/badge/Linkedin-0b66c3?&style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="Arun Kumar">](https://www.linkedin.com/in/arun-kumar-944151240/)
