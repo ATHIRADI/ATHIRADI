@@ -1,4 +1,5 @@
-# 💫 About Me:
+### Greetings! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
+
 Currently, I am working with Dart and Flutter. <br>If you are looking to develop a mobile app, I would be happy to help. <br>I also enjoy contributing to community work. <br>Feel free to ask me about React, Flutter, Node, or the MERN Stack.
 
 
