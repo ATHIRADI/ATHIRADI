@@ -1,7 +1,7 @@
 ### Greetings! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 
 I'm a highly motivated and results-oriented software developer with 2+ years of experience building modern web and mobile applications. I'm proficient in React, MERN stack (MongoDB, Express.js, React.js, Node.js), and Flutter for cross-platform development.
-I thrive in a freelance environment and collaborate effectively with clients to deliver high-quality, user-centric solutions that meet their specific needs. I have a strong track record of success in developing e-commerce applications that help businesses increase sales and improve customer experience.
+I thrive in a freelance environment and collaborate effectively with clients to deliver high-quality, user-centric solutions that meet their specific needs. 
 
 If you're looking for a reliable and experienced developer to help you build your next mobile or web app.
 
