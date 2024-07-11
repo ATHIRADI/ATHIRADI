@@ -1,9 +1,12 @@
 ### Greetings! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 
-I'm a highly motivated and results-oriented software developer with 2+ years of experience building modern web and mobile applications. I'm proficient in React, MERN stack (MongoDB, Express.js, React.js, Node.js), and Flutter for cross-platform development.
-I thrive in a freelance environment and collaborate effectively with clients to deliver high-quality, user-centric solutions that meet their specific needs. 
+I'm a highly motivated and results-oriented software developer with over 2 years of experience in building modern web and mobile applications. My expertise includes:
 
-If you're looking for a reliable and experienced developer to help you build your next mobile or web app.
+React & Next.js - Crafting dynamic and responsive user interfaces.
+MERN Stack - Proficient in MongoDB, Express.js, React.js, and Node.js for full-stack development.
+Flutter - Developing cross-platform mobile applications.
+
+Explore my work and let's create something amazing together!I'm
 
 [<img src="https://img.shields.io/badge/Fiverr-1dbf73?&style=for-the-badge&logo=fiverr&logoColor=white" height="25" alt="Arun Kumar">](https://www.fiverr.com/athiradi/)
 [<img src="https://img.shields.io/badge/Linkedin-0b66c3?&style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="Arun Kumar">](https://www.linkedin.com/in/arun-kumar-944151240/)
