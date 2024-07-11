@@ -6,7 +6,7 @@ React & Next.js - Crafting dynamic and responsive user interfaces.
 MERN Stack - Proficient in MongoDB, Express.js, React.js, and Node.js for full-stack development.
 Flutter - Developing cross-platform mobile applications.
 
-Explore my work and let's create something amazing together!I'm
+Explore my work and let's create something amazing together!
 
 [<img src="https://img.shields.io/badge/Fiverr-1dbf73?&style=for-the-badge&logo=fiverr&logoColor=white" height="25" alt="Arun Kumar">](https://www.fiverr.com/athiradi/)
 [<img src="https://img.shields.io/badge/Linkedin-0b66c3?&style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="Arun Kumar">](https://www.linkedin.com/in/arun-kumar-944151240/)
