@@ -9,7 +9,7 @@ Flutter - Developing cross-platform mobile applications.
 Explore my work and let's create something amazing together!
 
 [<img src="https://img.shields.io/badge/Fiverr-1dbf73?&style=for-the-badge&logo=fiverr&logoColor=white" height="25" alt="Arun Kumar">](https://www.fiverr.com/athiradi/)
-[<img src="https://img.shields.io/badge/Linkedin-0b66c3?&style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="Arun Kumar">](https://www.linkedin.com/in/arun-kumar-944151240/)
+[<img src="https://img.shields.io/badge/Linkedin-0b66c3?&style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="Arun Kumar">](https://www.linkedin.com/in/arun-kumar-web/)
 [<img src="https://img.shields.io/badge/Mail%20me-eeeeee?style=for-the-badge&logo=gmail&logoColor=D14836" height="25" alt="Arun Kumar">](mailto:athiradiarun@yahoo.com)
 
 # 💻 Tech Stack:
