@@ -2,7 +2,7 @@
 
 I am a highly motivated and results-oriented software developer with over 2 years of experience in building modern web and mobile applications. 
 My expertise includes crafting dynamic and responsive user interfaces using React and Next.js, full-stack development with the MERN stack (MongoDB, Express.js, React.js, and Node.js), and developing cross-platform mobile applications with Flutter. 
-Explore my work and let's create something amazing together!
+Explore my work, and let's create something amazing together!
 
 [<img src="https://img.shields.io/badge/Fiverr-1dbf73?&style=for-the-badge&logo=fiverr&logoColor=white" height="25" alt="Arun Kumar">](https://www.fiverr.com/athiradi/)
 [<img src="https://img.shields.io/badge/Linkedin-0b66c3?&style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="Arun Kumar">](https://www.linkedin.com/in/arun-kumar-web/)
