@@ -3,12 +3,12 @@
 I am a highly motivated and results-oriented software developer with over 2 years of experience building modern web and mobile applications. My expertise includes crafting dynamic and responsive user interfaces using React and Next.js, full-stack development with the MERN stack (MongoDB, Express.js, React.js, and Node.js), and developing cross-platform mobile applications with Flutter.
 
 I specialize in a variety of services to meet your digital needs:
-- Web Development: Comprehensive solutions from conceptualization to deployment, ensuring robust and scalable applications.
-- Front-End Development: Creating visually appealing and user-friendly interfaces with a focus on performance and responsiveness.
-- Static Website Development: Building efficient and fast-loading static websites that cater to your specific requirements.
-- Landing Page Development: Designing and developing high-converting landing pages to boost your marketing efforts.
-- Business and Professional Websites: Tailoring solutions for businesses and professionals to establish a strong online presence.
-- Any Websites and Web Apps: Custom development for unique and complex projects to bring your vision to life.
+- <b>Web Development:</b> Comprehensive solutions from conceptualization to deployment, ensuring robust and scalable applications.
+- <b>Front-End Development:</b> Creating visually appealing and user-friendly interfaces with a focus on performance and responsiveness.
+- <b>Static Website Development:</b> Building efficient and fast-loading static websites that cater to your specific requirements.
+- <b>Landing Page Development:</b> Designing and developing high-converting landing pages to boost your marketing efforts.
+- <b>Business and Professional Websites:</b> Tailoring solutions for businesses and professionals to establish a strong online presence.
+- <b>Any Websites and Web Apps:</b> Custom development for unique and complex projects to bring your vision to life.
 
 Let's collaborate and bring your ideas to life with cutting-edge technology and innovative solutions. Connect with me today to discuss how we can create something amazing together!
 
