@@ -1,8 +1,18 @@
 ### Greetings! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 
-I am a highly motivated and results-oriented software developer with over 2 years of experience in building modern web and mobile applications.  <br>
-My expertise includes crafting dynamic and responsive user interfaces using React and Next.js, full-stack development with the MERN stack (MongoDB, Express.js, React.js, and Node.js), and developing cross-platform mobile applications with Flutter. <br>
-Explore my work, and let's create something amazing together!
+I am a highly motivated and results-oriented software developer with over 2 years of experience building modern web and mobile applications. My expertise includes crafting dynamic and responsive user interfaces using React and Next.js, full-stack development with the MERN stack (MongoDB, Express.js, React.js, and Node.js), and developing cross-platform mobile applications with Flutter.
+
+I specialize in a variety of services to meet your digital needs:
+- Web Development: Comprehensive solutions from conceptualization to deployment, ensuring robust and scalable applications.
+- Front-End Development: Creating visually appealing and user-friendly interfaces with a focus on performance and responsiveness.
+- Static Website Development: Building efficient and fast-loading static websites that cater to your specific requirements.
+- Landing Page Development: Designing and developing high-converting landing pages to boost your marketing efforts.
+- Business and Professional Websites: Tailoring solutions for businesses and professionals to establish a strong online presence.
+- Any Websites and Web Apps: Custom development for unique and complex projects to bring your vision to life.
+
+Let's collaborate and bring your ideas to life with cutting-edge technology and innovative solutions. Connect with me today to discuss how we can create something amazing together!
+
+#freelance #webdeveloper #remotework #opportunity
 
 [<img src="https://img.shields.io/badge/Fiverr-1dbf73?&style=for-the-badge&logo=fiverr&logoColor=white" height="25" alt="Arun Kumar">](https://www.fiverr.com/athiradi/)
 [<img src="https://img.shields.io/badge/Linkedin-0b66c3?&style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="Arun Kumar">](https://www.linkedin.com/in/arun-kumar-web/)
