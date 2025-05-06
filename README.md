@@ -1,8 +1,6 @@
 ### Greetings! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 
-I am a passionate Flutter developer eager to create functional and visually appealing mobile applications. Focusing on clean UI designs and smooth performance, I strive to deliver user-friendly apps that adhere to modern standards. <br />
-
-I continuously learn and keep up with the latest trends in the Flutter ecosystem to improve my skills and contribute effectively to projects. Let's connect and turn your ideas into reality!<br />
+Web & Mobile App Developer with hands-on experience building real-world projects using HTML, CSS, JavaScript, React.js, Next.js, Flutter, Firebase, Node.js, and PHP. Completed BCA in 2016 and a MERN Stack course in 2022. Eager to join a professional team and contribute with practical, self-learned development experience.!<br />
 
 
 
