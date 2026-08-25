@@ -49,8 +49,8 @@ clean architecture, responsive UI, REST APIs and shipping to production.
 Built at **Redpulse Software** (client repos are private):
 
 - **Pure Harvest Farms** — headless CMS rebuild · Next.js 16 + Payload CMS 3 + PostgreSQL + AWS S3 · [pureharvestfarms.com](https://www.pureharvestfarms.com)
-- **Vigo Burj** — corporate site for a Dubai engineering consultancy · Next.js, Resend + React Email, JSON-LD & llms.txt [burjengineering.com](https://www.burjengineering.com)
-- **Redpulse CRM** — sales CRM, 25+ routes · Next.js 16, TypeScript strict, Supabase, RBAC, PDF quotations
+- **Vigo Burj** — corporate site for a Dubai engineering consultancy · Next.js, Resend + React Email, JSON-LD & llms.txt · [burjengineering.com](https://www.burjengineering.com)
+- **Redpulse CRM** — sales CRM, 25+ routes · Next.js 16, TypeScript strict, Supabase, RBAC, PDF quotations 
 - **Lead Capture** — Chrome extension (MV3) · service worker, offline queue, Shadow DOM, XLSX export
 - **QR Studio** — published on Google Play · Flutter, on-device scanning, SQLite, PDF export
 - **Style Zone** — salon website · Next.js on Vercel · [mystylezone.in](https://mystylezone.in)
