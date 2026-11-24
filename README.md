@@ -11,7 +11,7 @@ I build fast business websites, custom SaaS & CRM platforms, cross-platform **Fl
 
 ### ⚡ Highlights
 
-- **9+ Years Commercial Experience (`2017 – 2026`):** PHP/MySQL Developer (`AJ Infoteck & Seyali`, 2017–2020) → Independent Flutter & MERN/Next.js Consultant (2020–Jan 2025) → Founding Member & CTO at `Redpulse Software LLP` (Feb 2025–Present).
+- **9+ Years Commercial Experience (`2017 – 2026`):** PHP & MySQL Web Developer (2017–2020) → Independent Flutter & MERN/Next.js Consultant (2020–Jan 2025) → Founding Member & CTO at `Redpulse Software` (Feb 2025–Present).
 - **20+ Production Systems Shipped:** Enterprise headless CMS websites, multi-client portals, sales CRMs, Chrome extensions, and offline Windows Point-of-Sale software.
 - **Cloud & Enterprise Auth:** Hands-on production deployments across **AWS (EC2, S3)** and **Microsoft Azure** with **Azure Entra Single Sign-On (SAML 2.0 & OIDC)** and **Windows Server IIS / Nginx** reverse proxies.
 - **5 Mobile Apps Live on Google Play:** Fast, offline-capable Flutter Android utilities with camera OCR, local SQLite storage, and instant PDF sharing.
